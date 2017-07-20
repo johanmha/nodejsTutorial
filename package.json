@@ -1,0 +1,27 @@
+{
+  "name": "nodejs_tutorial",
+  "version": "1.0.0",
+  "description": "a little test app",
+  "main": "tut19.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johanmha/nodejsTutorial.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Johan Haugland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johanmha/nodejsTutorial/issues"
+  },
+  "homepage": "https://github.com/johanmha/nodejsTutorial#readme",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3"
+  }
+}
